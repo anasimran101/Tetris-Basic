@@ -1,3 +1,3 @@
-#Tetris
+# Tetris
 Sprint Coded it back when i started coding. Not my best work...
 ![DEMO](T_sc.jpeg)
